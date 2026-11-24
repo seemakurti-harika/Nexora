@@ -1,4 +1,4 @@
-# ⚡Nnexora — Autonomous Agentic AI System Engine
+# ⚡Nexora — Autonomous Agentic AI System Engine
 
 > **Agentic AI Engineer Take-Home Assignment Implementation**  
 > A lightweight, modular, self-correcting agent framework capable of autonomous goal decomposition, tool orchestration, error recovery, and structured report synthesis.
